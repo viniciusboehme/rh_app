@@ -1,0 +1,10 @@
+# Oculta da estatística de linguagens do GitHub as pastas nativas
+# geradas automaticamente pelo Flutter. O código do app é 100% Dart (lib/).
+android/**    linguist-vendored
+ios/**        linguist-vendored
+linux/**      linguist-vendored
+macos/**      linguist-vendored
+windows/**    linguist-vendored
+web/**        linguist-vendored
+test/**       linguist-vendored
+*.g.dart      linguist-generated
